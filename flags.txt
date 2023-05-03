@@ -1,0 +1,15 @@
+
+<form method="POST">
+  <div>
+    <label>Enter 4 digit Access Code</label>
+    <input type="text" name="pin" value="0000"></input>
+    <br>
+    <button type="submit">GO</button>
+  </div>
+</form>
+  
+  <div>
+    <h4>Warning! COMP6443{BrUt3_f0rCE_B35t_f0rCE_z5346077_W2/7Nnfofp+rYHib5Cg5}</h4>
+    <p>DEPRECATED, plz use fancy javascript frontend</p>
+  </div>
+  
